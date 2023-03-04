@@ -10,7 +10,7 @@
     "repository": "https://github.com/reboot13-git/bin-checker-bot",
     "success_url": "/",
     "env": {
-        "API_TOKEN": {
+        "API_TOKEN": "5994663587:AAH2uyLpe_S40fPd1hSrp4-VEnlekNHwxE4"{
             "description": "API Token , get it from @BotFather"
         },
         "START_MSG": {
